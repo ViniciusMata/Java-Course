@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: cartoon_store
+    ports:
+      - "3306:3306"
+    volumes:
+      - devdojo_maratona_java:/var/lib/mysql
+
+volumes:
+  devdojo_maratona_java:
