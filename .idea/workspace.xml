@@ -5,134 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d0d8bae-fa7f-4426-abda-109140d90d64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Q_String/test/StringPerformanceTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZ_I_Jdbc/domain/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZ_I_Jdbc/test/ConnectionFactoryTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula01_OlaDev.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula02_TiposPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula03_TipoPrimitivosExercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula04_Operadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula05_EstruturasCondicionais01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula05_EstruturasCondicionais02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula05_EstruturasCondicionais03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula05_EstruturasCondicionais04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula05_EstruturasCondicionais05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula05_EstruturasCondicionais06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula06_EstruturasDeRepeticao01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula06_EstruturasDeRepeticao02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula06_EstruturasDeRepeticao03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula06_EstruturasDeRepeticao04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula06_EstruturasDeRepeticao05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula07_Array01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula07_Array02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula07_Array03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula08_ArrayMultidimensionais01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/introducao/Aula08_ArrayMultidimensionais02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/domain/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/domain/Estudante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/domain/Professor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/test/CarroTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/test/EstudanteTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/test/EstudanteTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/A_Introducao_Classes/test/ProfessorTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/CalculadoraTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/CalculadoraTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/CalculadoraTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/CalculadoraTest04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/CalculadoraTest05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/EstudanteTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/EstudanteTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/FuncionarioTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/Test/PessoaTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/domain/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/domain/Estudante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/domain/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/domain/ImpressoraEstudade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/B_Introducao_Metodos/domain/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/C_Sobrecarga_Metodos/domain/Desenho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/C_Sobrecarga_Metodos/test/DesenhoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/D_Construtores/domain/Desenho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/D_Construtores/test/DesenhoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/E_Bloco_Inicializacao/domain/Desenho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/E_Bloco_Inicializacao/test/DesenhoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/F_Modificador_Estatico/domain/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/F_Modificador_Estatico/domain/Desenho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/F_Modificador_Estatico/test/CarroTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/F_Modificador_Estatico/test/DesenhoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Escola.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Jogador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Local.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Professor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Seminario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/domain/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/AssociacaoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/EscolaTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/JogadorTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/JogadorTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/JogadorTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/LeituraTecladoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/G_Associacao/test/LeituraTecladoTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/H_Heranca/domain/Endereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/H_Heranca/domain/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/H_Heranca/domain/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/H_Heranca/test/HerancaTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/H_Heranca/test/HerancaTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/I_Sobrescrita/domain/Desenho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/I_Sobrescrita/test/AnimeTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/J_Modificador_Final/domain/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/J_Modificador_Final/domain/Comprador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/J_Modificador_Final/domain/Ferrari.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/J_Modificador_Final/test/CarroTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/K_Enumeracao/domain/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/K_Enumeracao/domain/TipoCliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/K_Enumeracao/domain/TipoPagamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/K_Enumeracao/test/ClienteTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/L_Classes_Abstratas/domain/Desenvolvedor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/L_Classes_Abstratas/domain/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/L_Classes_Abstratas/domain/Gerente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/L_Classes_Abstratas/domain/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/L_Classes_Abstratas/test/FuncionarioTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/M_Interface/domain/DataBaseLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/M_Interface/domain/DataLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/M_Interface/domain/DataRemover.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/M_Interface/domain/FileLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/M_Interface/test/DataLoaderTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/domain/Computador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/domain/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/domain/Taxavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/domain/Televisao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/domain/Tomate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/repository/Repositorio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/servico/CalculadoraImposto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/servico/RepositorioArquivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/servico/RepositorioBancoDados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/servico/RepositorioMemoria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/test/ProdutoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/test/ProdutoTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/test/ProdutoTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/N_Polimorfismo/test/RepositorioTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/RunTimeException/test/RunTimeExceptionTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/RunTimeException/test/RunTimeExceptionTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/RunTimeException/test/RunTimeExceptionTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/RunTimeException/test/RunTimeExceptionTest04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/error/test/StackOverFlowTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/domain/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/domain/Leitor1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/domain/Leitor2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/domain/LoginInvalidoException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/domain/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/test/ExceptionTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/test/ExceptionTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/test/LoginInvalidoExceptionTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/test/SobrescritaComExceptionTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/O_Exception/exception/test/TryWithResourcesTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/P_Wrappers/test/WrappersTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/Q_String/test/StringTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maratona_java/javacore/Q_String/test/StringTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
